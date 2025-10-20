@@ -88,13 +88,13 @@ APK will be available at: `android/app/build/outputs/apk/release/app-release.apk
 ## Platform Notes
 
 ### Android
-- ✅ Fully functional and tested
-- ✅ All features working (auto-lock, biometrics, offline mode, etc.)
-- ✅ APK available for testing
+- Fully functional and tested
+- All features working (auto-lock, biometrics, offline mode, etc.)
+- APK available for testing
 
 ### iOS
-- ✅ Code is iOS-compatible
-- ⚠️ Requires macOS for building and testing
+- Code is iOS-compatible
+- Requires macOS for building and testing
 - Can be built using:
   - Physical Mac with Xcode
   - EAS Build cloud service
