@@ -128,7 +128,7 @@ OnlineStore/
 ### Android Build Issues
 
 1. **NDK Error**: Make sure NDK is properly installed via Android Studio SDK Manager
-2. **Gradle Version**: This project requires Gradle 8.13+
+2. **Gradle Version**: This project requires Gradle 9.0+
 3. **Clean Build**: Run `cd android && ./gradlew clean` if you encounter build issues
 
 ### Metro Bundler Issues
