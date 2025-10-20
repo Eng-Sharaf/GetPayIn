@@ -37,7 +37,7 @@ A React Native e-commerce application built with modern technologies and best pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/GetPayIn.git
+git clone https://github.com/Eng-Sharaf/GetPayIn.git
 cd GetPayIn
 ```
 
